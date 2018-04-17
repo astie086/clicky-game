@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Baron",
+      "image": "./images/baron.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Duke Leto",
+      "image": "./images/DukeLeto.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Duncan Idaho",
+      "image": "./images/duncan.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Emperor Shadam",
+      "image": "./images/emperor.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Face Dancer",
+      "image": "./images/FaceDancer.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Feyd",
+      "image": "./images/feyd.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Freeman",
+      "image": "./images/freeman.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Reverand Mother Gaius",
+      "image": "./images/Gaius.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Beast Rabban",
+      "image": "./images/Rabban.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Thufir Howard",
+      "image": "./images/Thufir.jpg",
+      "clicked": false
+    }
+  ]
