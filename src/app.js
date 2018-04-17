@@ -1,9 +1,7 @@
 import React, { Component } from "react";
-import { Line } from 'rc-progress';
 import Wrapper from "./components/Wrapper";
 import Card from './components/Card';
 import Characters from './characters.json';
-import './App.css';
 
 let topScore = 0;
 let guessesCorrect = 0;
@@ -70,7 +68,7 @@ class App extends Component {
 
 		return <div>{divs}</div>;
 	};
-
+		
     render() {
 
         return ( 
