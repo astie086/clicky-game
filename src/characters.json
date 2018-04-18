@@ -2,61 +2,61 @@
     {
       "id": 1,
       "name": "Baron",
-      "image": "./images/https://github.com/astie086/clicky-game/blob/master/public/Images/DukeLeto.jpg",
+      "image": "./images/https://github.com/astie086/clicky-game/blob/master/public/Images/baron.jpg",
       "clicked": false
     },
     {
       "id": 2,
       "name": "Duke Leto",
-      "image": "./images/DukeLeto.jpg",
+      "image": "https://github.com/astie086/clicky-game/blob/master/public/Images/DukeLeto.jpg",
       "clicked": false
     },
     {
       "id": 3,
       "name": "Duncan Idaho",
-      "image": "./images/duncan.jpg",
+      "image": "https://github.com/astie086/clicky-game/blob/master/public/Images/duncan.jpg",
       "clicked": false
     },
     {
       "id": 4,
       "name": "Emperor Shadam",
-      "image": "./images/emperor.jpg",
+      "image": "https://github.com/astie086/clicky-game/blob/master/public/Images/emperor.jpg",
       "clicked": false
     },
     {
       "id": 5,
       "name": "Face Dancer",
-      "image": "./images/FaceDancer.jpg",
+      "image": "https://github.com/astie086/clicky-game/blob/master/public/Images/FaceDancer.jpg",
       "clicked": false
     },
     {
       "id": 6,
       "name": "Feyd",
-      "image": "./images/feyd.jpg",
+      "image": "https://github.com/astie086/clicky-game/blob/master/public/Images/feyd.jpg",
       "clicked": false
     },
     {
       "id": 7,
       "name": "Freeman",
-      "image": "./images/freeman.jpg",
+      "image": "https://github.com/astie086/clicky-game/blob/master/public/Images/freeman.jpg",
       "clicked": false
     },
     {
       "id": 8,
       "name": "Reverand Mother Gaius",
-      "image": "./images/Gaius.jpg",
+      "image": "https://github.com/astie086/clicky-game/blob/master/public/Images/Gaius.jpg",
       "clicked": false
     },
     {
       "id": 9,
       "name": "Beast Rabban",
-      "image": "./images/Rabban.jpg",
+      "image": "https://github.com/astie086/clicky-game/blob/master/public/Images/Rabban.jpg.jpg",
       "clicked": false
     },
     {
       "id": 10,
       "name": "Thufir Howard",
-      "image": "./images/Thufir.jpg",
+      "image": "https://github.com/astie086/clicky-game/blob/master/public/Images/Thufir.jpg",
       "clicked": false
     }
   ]
