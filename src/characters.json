@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Baron",
-      "image": "./images/https://github.com/astie086/clicky-game/blob/master/public/Images/baron.jpg",
+      "image": "http://markzug.com/dune/dune-the-card-game/5425987",
       "clicked": false
     },
     {
