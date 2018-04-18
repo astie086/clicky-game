@@ -79,7 +79,7 @@ class App extends Component {
         				<h3 className="message">{this.state.message}</h3>
     				</div>
     				<div className="buttonWrapper">
-    					<img className="buttons" src="images/buttons.png" alt="zelda buttons" />
+    					<img className="buttons" src="images/buttons.png" alt="buttons" />
     				</div>
 					<div className="Score">
     				{this.renderScore()}
